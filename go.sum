@@ -11,8 +11,12 @@ github.com/beorn7/perks v1.0.0/go.mod h1:KWe93zE9D1o94FZ5RNwFwVgaQK1VOXiVxmqh+Ce
 github.com/cespare/xxhash v1.1.0/go.mod h1:XrSqR1VqqWfGrhpAt58auRo0WTKS1nRRg3ghfAqPWnc=
 github.com/chromedp/cdproto v0.0.0-20200709115526-d1f6fc58448b h1:LF+GRwyzxrO3MUzPvejv+yBup0lNG+/QdIRrkxOPseA=
 github.com/chromedp/cdproto v0.0.0-20200709115526-d1f6fc58448b/go.mod h1:E6LPWRdIJc11h/di5p0rwvRmUYbhGpBEH7ZbPfzDIOE=
+github.com/chromedp/cdproto v0.0.0-20201204063249-be40c824ad18 h1:Ci3nU2yz9gRTkITWowWFTtAKYXGwbFBM6cQNoNZxH8o=
+github.com/chromedp/cdproto v0.0.0-20201204063249-be40c824ad18/go.mod h1:55pim6Ht4LJKdVLlyFJV/g++HsEA1hQxPbB5JyNdZC0=
 github.com/chromedp/chromedp v0.5.4-0.20200729192944-ccb1bb06c868 h1:p7PppOWSzj/rLAFo5I58qM5wOQaDfFOaJ8hn+uPzaM8=
 github.com/chromedp/chromedp v0.5.4-0.20200729192944-ccb1bb06c868/go.mod h1:qyppbPfbdDXbhCiOluIIp3cIZf5t4e6OxIGTBEfu/t8=
+github.com/chromedp/sysutil v1.0.0 h1:+ZxhTpfpZlmchB58ih/LBHX52ky7w2VhQVKQMucy3Ic=
+github.com/chromedp/sysutil v1.0.0/go.mod h1:kgWmDdq8fTzXYcKIBqIYvRRTnYb9aNS9moAV0xufSww=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/coreos/bbolt v1.3.2/go.mod h1:iRUV2dpdMOn7Bo10OQBFzIJO9kkE559Wcmn+qkEiiKk=
 github.com/coreos/etcd v3.3.10+incompatible/go.mod h1:uF7uidLiAD3TWHmW31ZFd/JWoc32PjwdhPthX9715RE=
